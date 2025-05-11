@@ -22,3 +22,4 @@ if __name__ == "__main__":
     # Prompt user to input URL
     user_url = input("Enter the URL to generate a QR code: ")
     generate_qr_code(user_url)     # Call the function with the input URL
+# End of script - Use https://www.bioxsystems.com/ as the link for QR code generation
